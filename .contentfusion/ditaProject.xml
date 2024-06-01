@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <project xmlns="https://www.dita-ot.org/project">
+    <context id="OkYEzBedhsLVdQx" name="X2000">
+        <input href="../mobilePhone.ditamap"/>
+        <profile>
+            <ditaval href="../ditaval/x2000.ditaval"/>
+        </profile>
+    </context>
     <context id="mymFftVVLulqwLc" name="X1000">
         <input href="../mobilePhone.ditamap"/>
         <profile>
